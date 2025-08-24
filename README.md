@@ -1,0 +1,2 @@
+# ElasticsearchTech
+Professional Elasticsearch infrastructure with Elasticsearch-optimized intelligent-automation and enterprise scalable-architecture capabilities
